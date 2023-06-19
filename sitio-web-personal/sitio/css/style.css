@@ -1,0 +1,142 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image: url("../img/fondo-tecnologico-abstracto_313905-904.avif");
+	height: 100%;
+	background-position:center;
+  	background-repeat:no-repeat;
+  	background-size:cover;
+	background-attachment: fixed;
+  	position:relative;
+}
+body{
+font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	min-height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center
+}
+
+.container-fluid{
+	background-color: black;
+}
+
+.navbar-font{
+	color: white;
+}
+.container-navbar{
+	background-color: black;
+	display: flex;
+	justify-content: flex-end;
+	width: 100%;
+}
+.imagen{
+max-height: 30%;	
+max-width: 30%;		
+}
+.hola{
+	display: flex;
+	justify-content: center;
+	font-size: 20px;
+	color: white;
+	padding-left: 10%;
+}
+.Storyboards{
+	display: flex;
+	color: white;
+	padding-left: 10%;
+}
+.grafico{
+	display: flex;
+	font-size: 20px;
+	color: white;
+	padding-left: 10%;
+}
+.pie{
+	background-color: #1E1E1E;
+	color: white;
+	width: 100vw;
+	display: flex;
+	justify-content: space-around;
+}
+.drawings{
+	color: white;
+	padding-left: 10%;
+}
+.servicios{
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+.Contact{
+	color: white;
+}
+.espacio{
+	height: 70vh;
+		
+}
+
+.Portafolio{
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+.guia{
+	color: white;
+}
+.honduras{
+	color: white;
+}
+.tel{
+	color: white;
+}
+.correo{
+	color: white;
+}
+.follow{
+	color: white;
+}
+.contact{
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+.photoshop{
+	color: white;
+}
+.premiere{
+ color: white;	
+}
+.ilustrador{
+	color: white;	
+}
+.dreamweaver{
+	color: white;
+}
+.lista{
+	color: white;
+}
+.figma{
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+.XD{
+	color: white;
+	display: flex;
+	justify-content: center;
+}
+.Animate{
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+.nombre{
+	color: white;
+}
+.nav-link{
+	color: white !important;
+}
+#rebeldes .col{
+	width: 296px !important;
+}
